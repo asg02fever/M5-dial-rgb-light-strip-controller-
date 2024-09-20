@@ -17,3 +17,8 @@ This firmware provides a user interface for controlling an SK6812 RGB LED strip 
 
 **Installation**:
 - Compile and upload the firmware to the M5Dial using the Arduino IDE.
+
+
+![m5 copie](https://github.com/user-attachments/assets/7270f864-288c-45d4-bf6b-578f4a5fa950)
+connect you cable like so , the bottom pin is the gnd , middle one is the 5v , the top one is the data, the last verry top pin is not used 
+
